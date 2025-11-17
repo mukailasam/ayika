@@ -17,5 +17,3 @@ It automatically loads `.env` when imported and supports logging.
 ```
 go get github.com/mukailasam/ayika
 ```
-
-> NOTE Ayika uses Go Modules to manage dependencies.
